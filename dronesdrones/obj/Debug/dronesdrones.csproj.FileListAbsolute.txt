@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\bin\Debug\dronesdrones.exe.config
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\bin\Debug\dronesdrones.exe
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\bin\Debug\dronesdrones.pdb
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\obj\Debug\dronesdrones.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\obj\Debug\dronesdrones.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\obj\Debug\dronesdrones.exe
+C:\Users\maksi\source\repos\dronesdrones\dronesdrones\obj\Debug\dronesdrones.pdb

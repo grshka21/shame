@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AttackDrone.cs" />
+    <Compile Include="Drone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReconDrone.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
